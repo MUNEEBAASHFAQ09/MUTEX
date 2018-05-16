@@ -106,7 +106,7 @@ int main()
 	pthread_mutex_destroy(&mut);
 	//printing total sum of the  array
 	
-	printf("THE TOTAL SUM IS=%d",total_sum);
+	printf("THE TOTAL SUM IS=%d",total);
 	
 	return 0;
 	
